@@ -22,9 +22,7 @@ src/mdance/outputs/__init__.py
 src/mdance/outputs/postprocess.py
 src/mdance/prime/__init__.py
 src/mdance/prime/rep_frames.py
-src/mdance/prime/rep_frames_cl.py
 src/mdance/prime/sim_calc.py
-src/mdance/prime/similarity_cl.py
 src/mdance/tools/__init__.py
 src/mdance/tools/bts.py
 src/mdance/tools/esim_modules.py
